@@ -1,0 +1,21 @@
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Week2_Assignment\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Week2_Assignment\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Week2_Assignment\AssetManagementSystem\AssetManagementSystem\bin\Debug\AssetManagementSystem.exe.config
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Week2_Assignment\AssetManagementSystem\AssetManagementSystem\bin\Debug\AssetManagementSystem.exe
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Week2_Assignment\AssetManagementSystem\AssetManagementSystem\bin\Debug\AssetManagementSystem.pdb
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Week2_Assignment\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.exe
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Week2_Assignment\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.pdb
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\.NET Training Assignments\Week2_Training\AssetManagementSystem\AssetManagementSystem\bin\Debug\AssetManagementSystem.exe.config
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\.NET Training Assignments\Week2_Training\AssetManagementSystem\AssetManagementSystem\bin\Debug\AssetManagementSystem.exe
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\.NET Training Assignments\Week2_Training\AssetManagementSystem\AssetManagementSystem\bin\Debug\AssetManagementSystem.pdb
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\.NET Training Assignments\Week2_Training\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\.NET Training Assignments\Week2_Training\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\.NET Training Assignments\Week2_Training\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.exe
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\.NET Training Assignments\Week2_Training\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.pdb
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\.NET Training Assignments\Week2 Training\AssetManagementSystem\AssetManagementSystem\bin\Debug\AssetManagementSystem.exe.config
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\.NET Training Assignments\Week2 Training\AssetManagementSystem\AssetManagementSystem\bin\Debug\AssetManagementSystem.exe
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\.NET Training Assignments\Week2 Training\AssetManagementSystem\AssetManagementSystem\bin\Debug\AssetManagementSystem.pdb
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\.NET Training Assignments\Week2 Training\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\.NET Training Assignments\Week2 Training\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\.NET Training Assignments\Week2 Training\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.exe
+C:\Users\ritik.raj\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\.NET Training Assignments\Week2 Training\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.pdb
